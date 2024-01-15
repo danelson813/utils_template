@@ -1,0 +1,1 @@
+A template for scraping items from the Internet
